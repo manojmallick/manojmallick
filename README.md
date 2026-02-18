@@ -35,6 +35,19 @@ Whether you are a beginner exploring your first “Hello World,” a professiona
 
 ---
 
+## 💼 Professional Experience
+
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| **Gen AI Specialist & Senior Full Stack Engineer** | <img src="https://img.shields.io/badge/ING_Netherlands-FF6200?style=flat&logo=ing&logoColor=white" alt="ING"/> | *Nov 2022 - Present* |
+| **Gen AI Specialist & Senior Technical Lead** | <img src="https://img.shields.io/badge/HCL_Technologies-005BAC?style=flat&logo=hcl&logoColor=white" alt="HCL"/> | *Nov 2020 - Present* |
+| **Senior Full Stack Engineer** | <img src="https://img.shields.io/badge/LTI-004685?style=flat&logo=larsenandtoubro&logoColor=white" alt="LTI"/> | *Oct 2019 - Nov 2020* |
+| **Senior Software Development Engineer** | <img src="https://img.shields.io/badge/ABN_AMRO-008579?style=flat&logo=abnamro&logoColor=white" alt="ABN AMRO"/> | *Jan 2017 - Sep 2019* |
+| **Technical Lead / Senior Developer** | <img src="https://img.shields.io/badge/USAA-00365E?style=flat&logo=usaa&logoColor=white" alt="USAA"/> | *Jul 2014 - May 2017* |
+| **Software Developer** | <img src="https://img.shields.io/badge/TCS-D81E5B?style=flat&logo=tata&logoColor=white" alt="TCS"/> | *Oct 2011 - Oct 2019* |
+
+---
+
 ## 🚀 The Arsenal (Tech Stack)
 
 ### 🧩 Front-End Development
