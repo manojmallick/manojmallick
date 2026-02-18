@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_slim.png" alt="Manoj Mallick Banner" width="100%" />
+  <img src="assets/banner_final.png" alt="Manoj Mallick Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Manoj Mallick 👋</h1>
@@ -94,7 +94,7 @@ Whether you are a beginner exploring your first “Hello World,” a professiona
 ## � GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojmallick&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=manojmallick&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
