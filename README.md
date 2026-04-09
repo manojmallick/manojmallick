@@ -25,6 +25,25 @@
 
 ---
 
+## 🏆 Hackathon Victories
+
+<div align="center">
+
+[![Hackathons Won](https://img.shields.io/badge/Hackathons_Won-4-FFD700?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mmallick1990)
+[![Total Prizes](https://img.shields.io/badge/Total_Prizes-%246%2C000%2B_Cash-228B22?style=for-the-badge&logo=cashapp&logoColor=white)](https://devpost.com/mmallick1990)
+[![Competitors](https://img.shields.io/badge/Competitors_Beaten-5%2C000%2B-FF6B35?style=for-the-badge&logo=target&logoColor=white)](https://devpost.com/mmallick1990)
+
+</div>
+
+| 🏅 | Hackathon | Scale | Project | Award |
+| :---: | :--- | :---: | :--- | :--- |
+| 🥇 | [**Airia AI Agents Hackathon**](https://airia-hackathon.devpost.com/) &nbsp;·&nbsp; *Feb – Mar 2026* | ![1497](https://img.shields.io/badge/1%2C497_participants-555?style=flat-square) | [Guardian — AI-Governed Incident Response](https://devpost.com/software/guardian-ai-governed-incident-response) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/guardian) | ![1st Place](https://img.shields.io/badge/🥇_1st_Place-Active_Agents_Track-FFD700?style=flat-square) &nbsp; ![Prize](https://img.shields.io/badge/%242%2C000_Cash-228B22?style=flat-square) |
+| 🥇 | [**AI Agents Reloaded: Live & Labs Benelux**](https://cloudonair.withgoogle.com/events/ai-agents-reloaded-live-labs-benelux) &nbsp;·&nbsp; *Mar 2026 · Google × B. Amsterdam* | ![100 teams](https://img.shields.io/badge/100_teams-555?style=flat-square) | [Sentinel AI — Multi-Agent Fraud Detection · Google ADK + Gemini · 5-agent pipeline](https://github.com/manojmallick/sentinel-ai) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/sentinel-ai) &nbsp; [![LinkedIn](https://img.shields.io/badge/Post-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7440110261589442560/) | ![1st Place](https://img.shields.io/badge/🥇_1st_Place-AI_for_Automation-FFD700?style=flat-square) |
+| 🥈 | [**DigitalOcean Gradient™ AI Hackathon**](https://digitalocean.devpost.com/) &nbsp;·&nbsp; *Jan – Mar 2026* | ![2629](https://img.shields.io/badge/2%2C629_participants-555?style=flat-square) | [GradientGuard — DORA Compliance Intelligence Platform](https://devpost.com/software/gradientguard-dora-compliance-intelligence-platform) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/gradient-guard) | ![2nd Place](https://img.shields.io/badge/🥈_2nd_Place-Overall-C0C0C0?style=flat-square) &nbsp; ![Prize](https://img.shields.io/badge/%244%2C000_Cash-228B22?style=flat-square) |
+| 🏆 | [**Hack for Humanity \| 2026**](https://hack-for-humanity-26.devpost.com/) &nbsp;·&nbsp; *Feb 2026* | ![775](https://img.shields.io/badge/775_participants-555?style=flat-square) | [Amsterdam Pollution Twin Copilot](https://devpost.com/software/amsterdam-pollution-twin-copilot) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/ams-pollution-twin-copilot) | ![Top 20 Winner](https://img.shields.io/badge/🏆_Top_20-Prize_Winner-4CAF50?style=flat-square) |
+
+---
+
 ## 👨‍💻 About Me
 
 I am a **Professional Full Stack Developer** with over **15 years** of hands-on experience in software engineering, system design, and artificial intelligence. I’ve worked across frontend, backend, DevOps, and AI, building enterprise-grade systems for real-world applications — from large-scale microservices to cognitive AI platforms.
@@ -34,7 +53,28 @@ I’m passionate about **teaching the real, modern way of coding** — combining
 Whether you are a beginner exploring your first “Hello World,” a professional improving your stack, or a researcher/developer exploring AI systems, I guide you step-by-step — conceptually, practically, and strategically.
 
 ---
+## 🎯 Vision & Mission
 
+> *Building AI systems that are not just powerful — but trustworthy, auditable, and production-grade.*
+
+My focus for 2026 and beyond sits at the intersection of **Agentic AI**, **financial compliance automation**, and **open-source developer tooling**:
+
+### 🤖 Agentic AI in Production
+Shipping multi-agent pipelines that solve real enterprise problems with production contracts, not just demos. Every pipeline I build has **deterministic pre-AI logic**, **human-in-the-loop controls**, a **full governance audit trail**, and **zero credentials in code**. Proven across incident response (Guardian), fraud detection (Sentinel AI), and compliance monitoring (GradientGuard). Next: expanding Guardian into a multi-jurisdiction DORA/HIPAA/MAS TRM compliance platform and open-sourcing the agent architecture as a reusable framework.
+
+### 🏦 FinTech Compliance Intelligence
+Turning regulatory obligations — DORA Article 11, NIS2, SOX Section 404 — from a cost centre into a competitive advantage. GradientGuard reduced compliance costs from €120K/year to €2,160/year for a 100-person fintech. The roadmap: live DO monitoring webhooks, multi-tenant SaaS with CISO/auditor/engineer role isolation, and pre-filled DNB and EBA regulatory reporting templates. Target market: 50–500-person EU fintechs paying Big Four firms €80–200K/year for DORA readiness.
+
+### ⚡ Open-Source AI Developer Tooling — [SigMap](https://github.com/manojmallick/sigmap)
+**SigMap** is my open-source AI context engine: it scans your codebase and extracts only function and class signatures — no bodies, no imports — then writes a compact file that Copilot, Claude, Cursor, and Windsurf read automatically. Result: **97% fewer tokens, same codebase understanding**. Currently at v3.3.0 with 21 releases, 21 language extractors, a VS Code extension, a JetBrains plugin, an 8-tool MCP server, and zero npm dependencies. The roadmap includes a cloud-hosted context API, team-shared context snapshots, and deeper ADK/LangGraph agent integration.
+
+### 🌍 Civic & Environmental AI
+Applying verifiable, cryptographically-signed AI to public-sector challenges. Amsterdam Pollution Twin Copilot proved that civic AI can be **auditable by design** — every pollution prediction is deterministically scored, Ed25519-signed, and drift-monitored. Next steps: real-time sensor streaming integration, EU Open Data compliance packaging, and a multi-city expansion framework across Europe.
+
+### 📚 Democratising AI Engineering
+Mentoring developers and evangelising responsible AI engineering practices — explainability-first, version-locked, observable, and compliant by design. Teaching the modern stack: Agentic systems, RAG architectures, MCP servers, and cloud-native AI — through open-source, community contributions, and hands-on hackathon leadership.
+
+---
 ## 💼 Professional Experience
 
 | Role | Company | Duration |
