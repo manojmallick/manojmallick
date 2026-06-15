@@ -1,14 +1,25 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="assets/banner_final.png" alt="Manoj Mallick Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=230&section=header&text=Manoj%20Mallick&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Architecting%20the%20Future%20with%20AI%20%26%20Code&descAlignY=56&descSize=20" width="100%" alt="Manoj Mallick" />
 </div>
 
-<h1 align="center">Hi there, I'm Manoj Mallick 👋</h1>
-<h3 align="center">Architecting the Future with AI & Code</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ebae5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Engineer;System+Architect;Cloud+%26+DevOps+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Gen+AI+Specialist+%40+ING+Netherlands;Senior+Full+Stack+Engineer+%C2%B7+15%2B+yrs;5x+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%26+SigMap" alt="Typing SVG" />
 </p>
 
+<!-- ===================== NAV ===================== -->
+<p align="center">
+  <a href="#-about-me">About</a> &nbsp;•&nbsp;
+  <a href="#-hackathon-victories">🏆 Wins</a> &nbsp;•&nbsp;
+  <a href="#-vision--mission">Vision</a> &nbsp;•&nbsp;
+  <a href="#-professional-experience">Experience</a> &nbsp;•&nbsp;
+  <a href="#-the-arsenal-tech-stack">Stack</a> &nbsp;•&nbsp;
+  <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#-github-stats">Stats</a> &nbsp;•&nbsp;
+  <a href="#-connect--collaborate">Connect</a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/manoj-mallick-9487413a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -21,10 +32,10 @@
   <a href="mailto:mmallick1990@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=manojmallick&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
-
+<!-- ===================== HACKATHONS ===================== -->
 ## 🏆 Hackathon Victories
 
 <div align="center">
@@ -43,7 +54,8 @@
 | 🥈 | [**DigitalOcean Gradient™ AI Hackathon**](https://digitalocean.devpost.com/) &nbsp;·&nbsp; *Jan – Mar 2026* | ![2629](https://img.shields.io/badge/2%2C629_participants-555?style=flat-square) | [GradientGuard — DORA Compliance Intelligence Platform](https://devpost.com/software/gradientguard-dora-compliance-intelligence-platform) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/gradient-guard) | ![2nd Place](https://img.shields.io/badge/🥈_2nd_Place-Overall-C0C0C0?style=flat-square) &nbsp; ![Prize](https://img.shields.io/badge/%244%2C000_Cash-228B22?style=flat-square) |
 | 🏆 | [**Hack for Humanity \| 2026**](https://hack-for-humanity-26.devpost.com/) &nbsp;·&nbsp; *Feb 2026* | ![775](https://img.shields.io/badge/775_participants-555?style=flat-square) | [Amsterdam Pollution Twin Copilot](https://devpost.com/software/amsterdam-pollution-twin-copilot) &nbsp; [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojmallick/ams-pollution-twin-copilot) | ![Top 20 Winner](https://img.shields.io/badge/🏆_Top_20-Prize_Winner-4CAF50?style=flat-square) |
 
----
+<!-- ===================== ABOUT ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -53,7 +65,6 @@ I’m passionate about **teaching the real, modern way of coding** — combining
 
 Whether you are a beginner exploring your first “Hello World,” a professional improving your stack, or a researcher/developer exploring AI systems, I guide you step-by-step — conceptually, practically, and strategically.
 
----
 ## 🎯 Vision & Mission
 
 > *Building AI systems that are not just powerful — but trustworthy, auditable, and production-grade.*
@@ -75,7 +86,9 @@ Applying verifiable, cryptographically-signed AI to public-sector challenges. Am
 ### 📚 Democratising AI Engineering
 Mentoring developers and evangelising responsible AI engineering practices — explainability-first, version-locked, observable, and compliant by design. Teaching the modern stack: Agentic systems, RAG architectures, MCP servers, and cloud-native AI — through open-source, community contributions, and hands-on hackathon leadership.
 
----
+<!-- ===================== EXPERIENCE ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+
 ## 💼 Professional Experience
 
 | Role | Company | Duration |
@@ -87,56 +100,73 @@ Mentoring developers and evangelising responsible AI engineering practices — e
 | **Technical Lead / Senior Developer** | <img src="https://img.shields.io/badge/USAA-00365E?style=flat&logo=usaa&logoColor=white" alt="USAA"/> | *Jul 2014 - May 2017* |
 | **Software Developer** | <img src="https://img.shields.io/badge/TCS-D81E5B?style=flat&logo=tata&logoColor=white" alt="TCS"/> | *Oct 2011 - Oct 2019* |
 
----
+<!-- ===================== TECH STACK ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
 
 ## 🚀 The Arsenal (Tech Stack)
 
-### 🧩 Front-End Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### ⚙️ Back-End & Enterprise
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**🧩 Front-End**
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,html,css&theme=dark" alt="Front-end stack" />
 
-### 🤖 AI, ML & Generative AI
+**⚙️ Back-End & Enterprise**
+
+<img src="https://skillicons.dev/icons?i=nodejs,py,java,spring,go,cpp&theme=dark" alt="Back-end stack" />
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins&theme=dark" alt="Cloud & DevOps stack" />
+
+**🤖 AI, ML & Generative AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="ML stack" />
+&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🔬 Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+**🔬 Data & Databases**
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark" alt="Data stack" />
 
-## � GitHub Stats
+</div>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+
+## 🛠️ Featured Projects
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojmallick&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/manojmallick/sigmap">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=sigmap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="SigMap" />
+  </a>
+  <a href="https://github.com/manojmallick/guardian">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=guardian&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Guardian" />
+  </a>
 </div>
+<div align="center">
+  <a href="https://github.com/manojmallick/sentinel-ai">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=sentinel-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Sentinel AI" />
+  </a>
+  <a href="https://github.com/manojmallick/gradient-guard">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=gradient-guard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GradientGuard" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/manojmallick/ElevenGov">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=ElevenGov&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="ElevenGov" />
+  </a>
+  <a href="https://github.com/manojmallick/ams-pollution-twin-copilot">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=manojmallick&repo=ams-pollution-twin-copilot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Amsterdam Pollution Twin Copilot" />
+  </a>
+</div>
+
+<!-- ===================== STATS ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -150,31 +180,47 @@ Mentoring developers and evangelising responsible AI engineering practices — e
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojmallick&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=manojmallick&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats" />
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Snake eats the contribution graph — generated by .github/workflows/snake.yml into the `output` branch -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojmallick&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojmallick/manojmallick/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojmallick/manojmallick/output/github-snake.svg" />
+    <img alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/manojmallick/manojmallick/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojmallick&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Activity Graph" />
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
 
 ## 🤝 Connect & Collaborate
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
+<p align="center">
   <a href="https://linkedin.com/in/manoj-mallick-9487413a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/manojpapu">
-    <img src="https://img.shields.io/badge/X-Follow-181717?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-Follow-181717?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/manojmallick">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:mmallick1990@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">Made with ❤️ and AI by Manoj Mallick</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,60:1F6FEB,100:0D1117&height=140&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20AI%20by%20Manoj%20Mallick&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
+</div>
