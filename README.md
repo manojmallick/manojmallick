@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=230&section=header&text=Manoj%20Mallick&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Architecting%20the%20Future%20with%20AI%20%26%20Code&descAlignY=56&descSize=20" width="100%" alt="Manoj Mallick" />
+  <img src="assets/banner_final.png" alt="Manoj Mallick — Architecting the Future with AI & Code" width="100%" />
 </div>
 
 <p align="center">
@@ -122,10 +122,10 @@ Mentoring developers and evangelising responsible AI engineering practices — e
 **🤖 AI, ML & Generative AI**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="ML stack" />
-&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
 **🔬 Data & Databases**
 
@@ -221,6 +221,6 @@ I am always open to discussing new projects, creative ideas, or opportunities to
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,60:1F6FEB,100:0D1117&height=140&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20AI%20by%20Manoj%20Mallick&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+
+<p align="center"><i>Made with ❤️ & AI by Manoj Mallick</i></p>
