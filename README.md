@@ -178,11 +178,6 @@ Mentoring developers and evangelising responsible AI engineering practices — e
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manojmallick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://streak-stats.demolab.com/?user=manojmallick&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats" />
-      </td>
-    </tr>
   </table>
 </div>
 
